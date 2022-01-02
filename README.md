@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+Designing and building an “Azure” Cloud Management Platform to manage Centric Managed Services customers in their Cloud journey. Helping the internal organization and the customer with their “Digital transformation”. Supporting Centric Managed Services with the Azure Cloud proposition.
+
 - 🔭 I’m currently working on [PowerShell Modules Templates](https://github.com/EelcoLabordus/PowerShell-Module-Template)
 
 - 🌱 I’m currently learning **Azure DevOps, Azure Security, Azure Automation**
