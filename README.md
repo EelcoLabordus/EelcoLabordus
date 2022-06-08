@@ -15,7 +15,7 @@ Designing and building an “Azure” Cloud Management Platform to manage Centri
 
 - 👯 I’m looking to collaborate on [Azure/Enterprise-Scale](https://github.com/Azure/Enterprise-Scale)
 
-- 📝 I regularly write articles on [www.labornet.nl](www.labornet.nl)
+- 📝 I regularly write articles on [www.labornet.nl](https://www.labornet.nl)
 
 - 📄 Know about my experiences [https://nl.linkedin.com/in/eelcolabordus](https://nl.linkedin.com/in/eelcolabordus)
 
